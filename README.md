@@ -1,5 +1,5 @@
 <h1 align='center'>
-  👋 Hi there I'm AFASSI Mohamed, FPGA&AI enthusiast
+  👋 Hi there I'm AFASSI Mohamed, Embedded & AI & Cyber enthusiast
 </h1>
 
 <p align='center'>
