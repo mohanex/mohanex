@@ -17,6 +17,9 @@
   <a href="https://forum.digilent.com/profile/18076-morocco_brittany56/?tab=activity">
     <img src="https://img.shields.io/badge/Digilent_Profil-104734" />
   </a>
+  <a href="[https://forum.digilent.com/profile/18076-morocco_brittany56/?tab=activity](https://www.malt.fr/profile/mohamedafassi)">
+    <img src="https://img.shields.io/badge/Malt_Freelance_Profil-fc5757" />
+  </a>
 
   
 
