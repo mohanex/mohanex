@@ -7,7 +7,7 @@
 </p>
 
 - ⚡ Fun fact: I'm a polyglot speaking five languages.
-- 📫 Reach for me for a project or discussion:
+- 📫 Reach to me for a project or discussion:
   <a href="https://www.linkedin.com/in/afassimo/">
     <img src="https://img.shields.io/badge/Linkedin-0e76a8" />
   </a>
